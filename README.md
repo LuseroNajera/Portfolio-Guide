@@ -27,9 +27,8 @@ Welcome to my portfolio! Here, I document a summary of my projects in the data f
 # SAP
 | Project Link | Completion Date | Project Description | 
 |---|---|---|
-| ERPSIM | October 2023 | |
 | [Manufacturing](https://github.com/LuseroNajera/SAP-Projects/blob/27a8c000de0534123f5bd5dfadaa490a795fc168/Manufacturing.md) | November 2023 | Dataset and graphs that show data of manufacturing sectors in various states. |
-| Word Data | November 2023 | |
+| [World Data](https://github.com/LuseroNajera/SAP-Projects/blob/657f85709ef5b235a73a71adb3fefc83973be577/World%20Data.md)| November 2023 | Dataset and graphs that show world data in relation to birth rate, death rate, literacy rate and population density by region and country. |
 
 ***
 
