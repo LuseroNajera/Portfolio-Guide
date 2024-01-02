@@ -19,9 +19,17 @@ Welcome to my portfolio! Here, I document a summary of my projects in the data f
 
 # SQL
 
+| Project Link | Completion Date | Project Description | 
+|---|---|---|
+
 
 ***
 # SAP
+| Project Link | Completion Date | Project Description | 
+|---|---|---|
+| ERPSIM | October 2023 | |
+| Manufacturing | November 2023 | |
+| Word Data | November 2023 | |
 
 ***
 
