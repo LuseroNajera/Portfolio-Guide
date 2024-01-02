@@ -28,7 +28,7 @@ Welcome to my portfolio! Here, I document a summary of my projects in the data f
 | Project Link | Completion Date | Project Description | 
 |---|---|---|
 | ERPSIM | October 2023 | |
-| Manufacturing | November 2023 | |
+| [Manufacturing](https://github.com/LuseroNajera/SAP-Projects/blob/27a8c000de0534123f5bd5dfadaa490a795fc168/Manufacturing.md) | November 2023 | Dataset and graphs that show data of manufacturing sectors in various states. |
 | Word Data | November 2023 | |
 
 ***
