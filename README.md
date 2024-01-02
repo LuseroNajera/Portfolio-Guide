@@ -12,7 +12,7 @@ Welcome to my portfolio! Here, I document a summary of my projects in the data f
 
 | Project Link | Completion Date | Project Description | 
 |---|---|---|
-| [Programs, Sites and Volunteers Dashboard] | December 2023 | I am an intern for a nonprofit org that has programs in schools(sites) as well as volunteers. We keep track of all the programs, schools, and volunteers in the database system, and I am basing my reports and dashboard off their schema, the data is entirely my own.|
+| [Programs, Sites and Volunteers Dashboard](https://github.com/LuseroNajera/Salesforce-Projects/blob/5e9fa58776fc732c5659031d0d1cb683114fa60f/Programs%2C%20Sites%20and%20Volunteers%20Dashboard.md) | December 2023 | I am an intern for a nonprofit org that has programs in schools(sites) as well as volunteers. We keep track of all the programs, schools, and volunteers in the database system, and I am basing my reports and dashboard off their schema, the data is entirely my own.|
 | [Salesforce Lightning - Case Console Record Page] | October 2023 | The Lightning App Builder is a powerful tool for quickly creating and customizing applications in Salesforce. Here I used objects already in salesforce and created a case console record page.|
 
 ***
