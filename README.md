@@ -21,7 +21,7 @@ Welcome to my portfolio! Here, I document a summary of my projects in the data f
 
 | Project Link | Completion Date | Project Description | 
 |---|---|---|
-
+|[Library Catalog](https://github.com/LuseroNajera/SQL-Projects/blob/b54073874cfa3170692acef3444d55a8bcdf6262/Library%20Catalog.md)| | |
 
 ***
 # SAP
