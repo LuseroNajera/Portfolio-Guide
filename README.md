@@ -21,9 +21,11 @@ Welcome to my portfolio! Here, I document a summary of my projects in the data f
 
 | Project Link | Completion Date | Project Description | 
 |---|---|---|
-|[Library Catalog](https://github.com/LuseroNajera/SQL-Projects/blob/b54073874cfa3170692acef3444d55a8bcdf6262/Library%20Catalog.md)| | |
+|[Library Catalog](https://github.com/LuseroNajera/SQL-Projects/blob/b54073874cfa3170692acef3444d55a8bcdf6262/Library%20Catalog.md)| September 2023 | This library catalog is designed to store data related to books, authors and locations. Additionally, I crafted queries in SQL to retrieve specific data from my library catalog. |
+| Ariline System  | In progress | I created a dataset based off an airline system. |
 
 ***
+
 # SAP
 | Project Link | Completion Date | Project Description | 
 |---|---|---|
