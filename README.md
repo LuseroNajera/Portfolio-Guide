@@ -9,17 +9,14 @@ Welcome to my portfolio! Here, I document a summary of my projects in the data f
 - SAP
 
 # Power BI  
-- [Profile link](https://www.salesforce.com/trailblazer/luseronajera3305)
 
 | Project Link | Completion Date | Project Description | 
 |---|---|---|
 | [2013 Financial Snapshot Report](https://github.com/LuseroNajera/Power-BI-projects/blob/4c4ff8f96b560d2b21a06340102e690f4b5862ab/Financials%202013%20.md) | November 2023 | I created a detailed report using Power BI tools to analyze and present financial data for the year 2013 in the context of products and profit. | 
 
-
 ***
 
 # Salesforce 
-- [Profile link](https://www.salesforce.com/trailblazer/luseronajera3305)
 
 | Project Link | Completion Date | Project Description | 
 |---|---|---|
