@@ -3,9 +3,20 @@
 Welcome to my portfolio! Here, I document a summary of my projects in the data field. 
 
 ## 📚 Table of Contents
+- Power BI 
 - Salesforce
 - SQL
 - SAP
+
+# Power BI  
+- [Profile link](https://www.salesforce.com/trailblazer/luseronajera3305)
+
+| Project Link | Completion Date | Project Description | 
+|---|---|---|
+| [2013 Financial Snapshot Report](https://github.com/LuseroNajera/Power-BI-projects/blob/4c4ff8f96b560d2b21a06340102e690f4b5862ab/Financials%202013%20.md) | November 2023 | I created a detailed report using Power BI tools to analyze and present financial data for the year 2013 in the context of products and profit. | 
+
+
+***
 
 # Salesforce 
 - [Profile link](https://www.salesforce.com/trailblazer/luseronajera3305)
@@ -13,7 +24,7 @@ Welcome to my portfolio! Here, I document a summary of my projects in the data f
 | Project Link | Completion Date | Project Description | 
 |---|---|---|
 | [Programs, Sites and Volunteers Dashboard](https://github.com/LuseroNajera/Salesforce-Projects/blob/719127bde4fa4604ac42180256e231283650e056/Programs%2C%20Sites%20and%20Volunteers%20Dashboard.md) | December 2023 | I am an intern for a nonprofit org that has programs in schools(sites) as well as volunteers. We keep track of all the programs, schools, and volunteers in the database system, and I am basing my reports and dashboard off their schema, the data is entirely my own.|
-| [Salesforce Lightning - Case Console Record Page](https://github.com/LuseroNajera/Salesforce-Projects/blob/88da118f90ad1e55a4a78c9290824ffa02d5a86e/Case%20Console%20Record%20Page.md) | October 2023 | The Lightning App Builder is a tool for quickly creating and customizing applications in Salesforce. Here I used objects already in salesforce and created a case console record page.|
+| [Salesforce Lightning - Case Console Record Page](https://github.com/LuseroNajera/Salesforce-Projects/blob/88da118f90ad1e55a4a78c9290824ffa02d5a86e/Case%20Console%20Record%20Page.md) | October 2023 | The Lightning App Builder is a tool for quickly creating and customizing applications in Salesforce. Here I used objects already in Salesforce and created a case console record page.|
 
 ***
 
@@ -21,8 +32,8 @@ Welcome to my portfolio! Here, I document a summary of my projects in the data f
 
 | Project Link | Completion Date | Project Description | 
 |---|---|---|
-|[Library Catalog](https://github.com/LuseroNajera/SQL-Projects/blob/b54073874cfa3170692acef3444d55a8bcdf6262/Library%20Catalog.md)| September 2023 | This library catalog is designed to store data related to books, authors and locations. Additionally, I crafted queries in SQL to retrieve specific data from my library catalog. |
-| Ariline System  | In progress | I created a dataset based off an airline system. |
+|[Library Catalog](https://github.com/LuseroNajera/SQL-Projects/blob/b54073874cfa3170692acef3444d55a8bcdf6262/Library%20Catalog.md)| September 2023 | This library catalog is designed to store data related to books, authors, and locations. Additionally, I crafted queries in SQL to retrieve specific data from my library catalog. |
+| Ariline System  | In progress | I created a dataset based on an airline system. |
 
 ***
 
