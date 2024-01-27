@@ -29,7 +29,7 @@ Welcome to my portfolio! Here, I document a summary of my projects in the data f
 
 | Project Link | Completion Date | Project Description | 
 |---|---|---|
-|[Ariline System](https://github.com/LuseroNajera/SQL-Projects/blob/64661f97e340140c436530f491ca77d0232d10e2/Airline%20System.md) | May 2023 | The airline system is designed to facilitate the storage and administration of data related to flights, passengers, airplanes, and flight crew members. |
+|[Airline System](https://github.com/LuseroNajera/SQL-Projects/blob/64661f97e340140c436530f491ca77d0232d10e2/Airline%20System.md) | May 2023 | The airline system is designed to facilitate the storage and administration of data related to flights, passengers, airplanes, and flight crew members. |
 |[Library Catalog](https://github.com/LuseroNajera/SQL-Projects/blob/b54073874cfa3170692acef3444d55a8bcdf6262/Library%20Catalog.md)| September 2023 | This library catalog is designed to store data related to books, authors, and locations. Additionally, I crafted queries in SQL to retrieve specific data from my library catalog. |
 
 ***
